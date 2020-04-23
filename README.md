@@ -18,3 +18,7 @@ To help me with this project, I used my online zybook and YouTube.
 
 # What skills from this project will be particularly transferable to other projects and/or course work? 
 The skills which I believe would be particularly transferable to other projects and/or course work is problem solving, self-motivation, perseverance, data structure, and algorithm fundamentals. 
+
+# How did you make this program maintainable, readable, and adaptable?
+I made this program maintainable, readable, and adaptable because if another developer were to try to make changes to the program, they would be able to read and understand the program without running into the risk of not knowing what to do in oder to make any significant changes if need be. Therefore, they would be able to easily modify, test, and fix a problem.
+
